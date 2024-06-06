@@ -1,9 +1,12 @@
+## Mint
+
 Try the application here - https://fanukiminter.vercel.app/
 
 Contract Used - https://sepolia.etherscan.io/address/0x55e3e0FAC3F347E280A9D0267F84176f6179C0F4#code
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 
 ## Getting Started
 
